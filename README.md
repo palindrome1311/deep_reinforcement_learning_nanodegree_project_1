@@ -54,5 +54,3 @@ Once trained the model weights will be saved in the same directory in the file `
 
 The model weights are used by the [`Trained Agent.ipynb` ](https://github.com/hortovanyi/DRLND-DQN-Banana-Navigation/blob/master/Trained%20Agent.ipynb) notebook against the simulator. 
 ![Simulator](https://i9.ytimg.com/vi/adfIUz7Ex5g/mq2.jpg?sqp=CJjI290F&rs=AOn4CLAEMsrkr_6Ajfi79V4rnIHV6sQD9g)
-
-[A sample YouTube video](https://www.youtube.com/watch?v=adfIUz7Ex5g)
